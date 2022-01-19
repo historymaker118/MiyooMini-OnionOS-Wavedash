@@ -1,5 +1,4 @@
-![screenshot](https://user-images.githubusercontent.com/1131445/150179660-a6345550-3f2a-49cf-a7ec-ebb8aaa3176e.png)
+![screenshot](https://user-images.githubusercontent.com/1131445/150186681-fd95c26a-034e-4e42-a012-c64c234280d0.png)
 
 # MiyooMini-OnionOS-Wavedash
 A custom theme for the miyoo-mini cfw onion os inspired by super smash bros
-
