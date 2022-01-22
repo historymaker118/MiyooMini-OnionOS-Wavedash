@@ -4,4 +4,4 @@
 A custom theme for the miyoo-mini cfw onion os inspired by super smash bros
 
 ### Notes    
-There are currently two music tracks to choose from just change the file name from bgm_alt.mp3 to bgm.mp3 two use the second before installing.
+There are currently two music tracks to choose from just change the file name from bgm_alt.mp3 to bgm.mp3 to use the second before installing.
